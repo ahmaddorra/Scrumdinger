@@ -1,5 +1,5 @@
 # Scrumdinger
-Scrumdinger App: a tutorial from apple.
+## Scrumdinger App: a tutorial from apple.
 ![alt text](/images/1.png?raw=true)
 ![alt text](/images/2.png?raw=true)
 ![alt text](/images/3.png?raw=true)
